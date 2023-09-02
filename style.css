@@ -1,5 +1,5 @@
 body {
-  background-image: url(assests/Images/background.png);
+  background-image: url(background.png);
 }
 
 #myBtn {
@@ -212,12 +212,12 @@ hr {
 
 #milestone {
   border-radius: 30%;
-  background-image: url(assests/Images/bg.png);
+  background-image: url(bg.png);
 }
 
 #old {
   border-radius: 20%;
-  background-image: url(assests/Images/colorful.jpg);
+  background-image: url(colorful.jpg);
 }
 
 #NU {
@@ -226,7 +226,7 @@ hr {
 
 #popular {
   border-radius: 40%;
-  background-image: url(assests/Images/wood.jpg);
+  background-image: url(wood.jpg);
 }
 
 #app {
