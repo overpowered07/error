@@ -66,7 +66,7 @@ function topFunction() {
 
 // Typew  Writing effect
 var i = 0;
-var txt = 'Thank you so so much for 175+ subscribers';
+var txt = 'Thank you so so much for 1+ subscribers';
 var speed = 90;
 
 function typeWriter() {
