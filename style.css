@@ -53,6 +53,7 @@ a:active {
 
 .name {
   text-decoration: none;
+  font-family: Comic Sans MS;
   text-transform: capitalize;
   text-shadow: 7px 7px black;
   text-align: center;
